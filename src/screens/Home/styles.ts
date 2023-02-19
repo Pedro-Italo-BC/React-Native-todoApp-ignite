@@ -7,7 +7,6 @@ export const styles = StyleSheet.create({
         backgroundColor: themeColor['background'],
         paddingLeft: 24,
         paddingRight: 24,
-        marginBottom: 8
     },
     formContainer:{
         display: 'flex',

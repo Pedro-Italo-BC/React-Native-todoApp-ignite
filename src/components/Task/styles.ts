@@ -10,6 +10,7 @@ export const styles = StyleSheet.create({
         paddingVertical: 12,
         backgroundColor: themeColor['gray-500'],
         marginBottom: 8,
+        borderRadius: 8
     },
 
     checkButton: {
